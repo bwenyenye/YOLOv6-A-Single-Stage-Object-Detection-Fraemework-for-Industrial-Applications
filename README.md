@@ -1,1 +1,1 @@
-# YOLOv6-A-Single-Stage-Object-Detection-Fraemework-for-Industrial-Applications
+# YOLOv6-A-Single-Stage-Object-Detection-Framework-for-Industrial-Applications
